@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "첫번째 게시글 테스트입니다."
+date:   2021-06-23 00:43
+categories: JAVA Spring Python
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+자바 스프링 파이썬 등등 프로젝트
 
 ```javascript
 const Razorpay = require('razorpay');
@@ -19,6 +19,12 @@ rzp.capture(payment_id, cost)
 	.then(function (data) {
 		return 2;
 	})
+```
+
+```python
+print('Hello World')
+
+
 ```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
