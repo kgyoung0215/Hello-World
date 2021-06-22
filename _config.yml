@@ -28,6 +28,7 @@ plainwhite:
     #- post3
     #- post4
   # generate social links in footer
+  disqus_shortname: games
   social_links:
     #twitter: samarsault
     github:  kgyoung0215
