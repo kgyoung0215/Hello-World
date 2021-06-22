@@ -29,10 +29,17 @@ plainwhite:
     #- post4
   # generate social links in footer
   navigation:
-    - title: My Work
+    - title: JAVA
       url: "/my-work"
-    - title: Resume
+    - title: Python
       url: "/resume"
+    - title: C++/C#
+      url: "/resume"
+    - title: SQL
+      url: "/resume"
+    - title: Algorism
+      url: "/resume"
+        
   social_links:
     #twitter: samarsault
     github:  kgyoung0215
