@@ -1,6 +1,6 @@
-title: Your awesome title
+title: 뇽쓰의 개발자노트
 author: GitHub User
-email: your-email@domain.com
+email: kgyoung0215@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,31 +14,34 @@ sass:
 plainwhite:
   name: Geun-young Kim
   tagline: Developer(IT)
-  date_format: "%Y, %m %-d"
+  date_format: "%Y, %m.%-d"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
-  html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  portfolio_image: "assets/kgy.png" # the path from the base directory of the site to the image to display (no / at the start)
+  html_lang: "KR" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
-    #- home
+    - home
     - page
     - post
+    - post2
+    - post3
+    - post4
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    #twitter: samarsault
+    github:  kgyoung0215
+    #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
+    instagram: kgyoung0215
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: kgyoung0215@gmail.com
 
     # Mastodon instances
     # mastodon:
