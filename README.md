@@ -75,7 +75,7 @@ Comments on posts can be enabled by specifying your disqus_shortname under plain
 
 ```yaml
 plainwhite:
-  disqus_shortname: games
+  disqus_shortname: korea
 ```
 
 **Google Analytics**
